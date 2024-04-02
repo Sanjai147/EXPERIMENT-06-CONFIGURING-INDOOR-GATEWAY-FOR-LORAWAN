@@ -84,9 +84,12 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+![WhatsApp Image 2024-04-02 at 11 24 01_5f925b21](https://github.com/vasanthkumarch/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/162275632/f8129d28-3a1b-4be3-bd52-fa1d2b2f9dd3)
 
+![WhatsApp Image 2024-04-02 at 11 24 01_0b06385a](https://github.com/vasanthkumarch/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/162275632/6855b99b-bddb-46c5-a6c0-db1a38a6df2b)
 
+![WhatsApp Image 2024-04-02 at 11 26 50_e5bc52b4](https://github.com/vasanthkumarch/EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN/assets/162275632/06307bf0-a54d-467e-a124-75cb7179d5a4)
 
 ## Results: 
-
+DRAGINO is configured successfully.
 
